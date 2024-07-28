@@ -1,0 +1,14 @@
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\bin\Debug\net8.0\Criptografia do Navio.exe
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\bin\Debug\net8.0\Criptografia do Navio.deps.json
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\bin\Debug\net8.0\Criptografia do Navio.runtimeconfig.json
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\bin\Debug\net8.0\Criptografia do Navio.dll
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\bin\Debug\net8.0\Criptografia do Navio.pdb
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\obj\Debug\net8.0\Criptografia do Navio.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\obj\Debug\net8.0\Criptografia do Navio.AssemblyInfoInputs.cache
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\obj\Debug\net8.0\Criptografia do Navio.AssemblyInfo.cs
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\obj\Debug\net8.0\Criptografia do Navio.csproj.CoreCompileInputs.cache
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\obj\Debug\net8.0\Criptografia do Navio.dll
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\obj\Debug\net8.0\refint\Criptografia do Navio.dll
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\obj\Debug\net8.0\Criptografia do Navio.pdb
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\obj\Debug\net8.0\Criptografia do Navio.genruntimeconfig.cache
+c:\Users\jmano\OneDrive\Github\Criptografia do Navio\obj\Debug\net8.0\ref\Criptografia do Navio.dll
